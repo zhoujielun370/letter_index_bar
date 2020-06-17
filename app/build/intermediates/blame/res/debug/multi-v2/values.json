@@ -1,0 +1,64 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\liyangzi\\20200617\\letter_index_bar\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "F:\\liyangzi\\20200617\\letter_index_bar\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "50,57",
+                        "startColumns": "4,4",
+                        "startOffsets": "1333,1624",
+                        "endLines": "56,59",
+                        "endColumns": "12,12",
+                        "endOffsets": "1619,1779"
+                    }
+                },
+                {
+                    "source": "F:\\liyangzi\\20200617\\letter_index_bar\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "58,109,163",
+                        "endColumns": "49,52,50",
+                        "endOffsets": "103,157,209"
+                    },
+                    "to": {
+                        "startLines": "47,48,49",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "1179,1229,1282",
+                        "endColumns": "49,52,50",
+                        "endOffsets": "1224,1277,1328"
+                    }
+                },
+                {
+                    "source": "F:\\liyangzi\\20200617\\letter_index_bar\\app\\src\\main\\res\\values\\arrays.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "59",
+                        "endLines": "47",
+                        "endColumns": "19",
+                        "endOffsets": "1222"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "46",
+                        "endColumns": "19",
+                        "endOffsets": "1174"
+                    }
+                }
+            ]
+        }
+    ]
+}
